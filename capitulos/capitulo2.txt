@@ -1,0 +1,4 @@
+El flujo de trabajo basico con Hit consiste en:[D[D[D[D[D[D[D[D[D[D[D[D[D[D[G[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[C
+1- Hacer cambios en el repositorio
+2- Añadir los cambios a la zona de intercambio temporal.[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D.[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D
+3- Hacer un commit de los cambios.
